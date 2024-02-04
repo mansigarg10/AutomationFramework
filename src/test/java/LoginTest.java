@@ -49,6 +49,7 @@ public class LoginTest extends Base  {
        loginPage.loginButton().click();
 
        accountPage = new AccountPage(driver);
+       System.out.println("Some changes has been done by Mansi");
 
 
        String actualResult = null;
