@@ -49,6 +49,7 @@ public class LoginTest extends Base  {
        loginPage.loginButton().click();
 
        accountPage = new AccountPage(driver);
+       System.out.println(".....................gggggg");
        
 
 
