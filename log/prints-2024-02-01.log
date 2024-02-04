@@ -1,0 +1,13 @@
+19:57:55.027 [TestNG-tests-1] DEBUG LoginTest - Browser has opened and maximized
+19:57:56.188 [TestNG-tests-1] DEBUG LoginTest - Navigated to the application
+19:57:56.579 [TestNG-tests-1] DEBUG LoginTest - Navigated to login page
+19:57:57.587 [TestNG-tests-1] INFO  LoginTest - User is able to login with valid credentials
+19:57:57.595 [TestNG-tests-1] DEBUG LoginTest - Test got passed
+19:57:59.088 [TestNG-tests-1] DEBUG LoginTest - Browser has opened and maximized
+19:57:59.916 [TestNG-tests-1] DEBUG LoginTest - Navigated to the application
+19:58:00.284 [TestNG-tests-1] DEBUG LoginTest - Navigated to login page
+19:58:11.041 [TestNG-tests-1] ERROR LoginTest - User is not able to login with invalid credentials
+20:02:35.849 [TestNG-tests-1] DEBUG LoginTest - Browser has opened and maximized
+20:02:36.890 [TestNG-tests-1] DEBUG LoginTest - Navigated to the application
+20:02:37.304 [TestNG-tests-1] DEBUG LoginTest - Navigated to login page
+20:02:38.219 [TestNG-tests-1] INFO  LoginTest - User is able to login with valid credentials
